@@ -33,6 +33,3 @@ Python • C++ • OpenCV • Git • GitHub
 
 linkdein:
 https://linkedin.com/in/jasra-saleem
-LinkedIn (Coming Soon)
-
-Portfolio (Coming Soon)
